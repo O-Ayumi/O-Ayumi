@@ -25,7 +25,9 @@ COACHTECHでフルスタックWeb開発を学習中です。
 ## 学習成果物
 
 COACHTECH教材のハンズオンで作成したリポジトリです。
-- 
+- https://github.com/O-Ayumi/contact-form-app
+- https://github.com/O-Ayumi/bookshelf-app
+- https://github.com/O-Ayumi/Certify-LMS
 
 ## これから挑戦したいこと
 まずはエンジニアとしての実績や経験を積むことを目標にしています。
